@@ -52,7 +52,7 @@
     $.fn.syotimer = function(options){
         // установки по умолчанию
         defaultTimer = {
-            year: 2014,
+            year: 2024,
             month: 7,
             day: 31,
             hour: 0,
